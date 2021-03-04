@@ -8,7 +8,7 @@
 
 2. Склонируйте с помощью Git данный репозиторий следующей командой:
    
-   ```git clone https://github.com/opodryadov/vkinder.git```
+   ```git clone https://github.com/opodryadov/list2tree.git```
 3. Если у Вас не установлен Python, установите его по данным инструкциям:
    - [Инструкция по установке и настройке Python в Windows](https://github.com/netology-code/guides/blob/master/python/python_windows.md)
    - [Инструкция по установке и настройке Python в Mac](https://github.com/netology-code/guides/blob/master/python/python_mac.md)
